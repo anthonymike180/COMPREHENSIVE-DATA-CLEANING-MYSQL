@@ -7,3 +7,7 @@ The goal of this project was to transform the dataset into a reliable and analys
 
 ## Dataset description
 The dataset used in this project is a dummy dataset sourced from Kaggle, commonly used for practice and demonstration purposes. It contains synthetic records designed to resemble real-world data, making it suitable for showcasing data cleaning techniques without exposing sensitive information.
+
+## Tools Used
+MySQL & Excel 
+
