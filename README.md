@@ -12,3 +12,4 @@ The dataset used in this project is a dummy dataset sourced from Kaggle, commonl
 MySQL & Excel 
 
 ## Project Files
+- <a href="https://github.com/anthonymike180/COMPREHENSIVE-DATA-CLEANING-MYSQL/blob/main/Messy_Employee_Table.csv">Dataset</a>
