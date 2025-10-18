@@ -29,3 +29,17 @@ This cleaned dataset can now be confidently used for further tasks such as:
 - Employee performance or salary analysis
 - HR reporting and dashboarding
 - Feeding into analytical or machine learning workflows
+
+## How to Use
+
+Follow the steps below to reproduce or modify the cleaning process:
+- Clone this repository
+- Import the raw dataset <a href="https://github.com/anthonymike180/COMPREHENSIVE-DATA-CLEANING-MYSQL/blob/main/Messy_Employee_Table.csv">Dataset</a> into MySQL
+- You can use tools like MySQL Workbench, phpMyAdmin, or the command line.
+- Run the SQL cleaning script
+- Open <a href="https://github.com/anthonymike180/COMPREHENSIVE-DATA-CLEANING-MYSQL/blob/main/cleaned_employee_table.sql">Complete Mysql code</a> and execute the queries step by steps to clean the data.
+- This will generate a cleaned version of the dataset as a new table <a href="https://github.com/anthonymike180/COMPREHENSIVE-DATA-CLEANING-MYSQL/blob/main/derived_table.csv">Derived table</a>
+
+## Author
+Anthony Michael
+anthonymike180@gmail.com
