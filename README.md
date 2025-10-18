@@ -14,3 +14,4 @@ MySQL & Excel
 ## Project Files
 - <a href="https://github.com/anthonymike180/COMPREHENSIVE-DATA-CLEANING-MYSQL/blob/main/Messy_Employee_Table.csv">Dataset</a>
 - <a href="https://github.com/anthonymike180/COMPREHENSIVE-DATA-CLEANING-MYSQL/blob/main/derived_table.csv">Derived table</a>
+- <a href="https://github.com/anthonymike180/COMPREHENSIVE-DATA-CLEANING-MYSQL/blob/main/cleaned_employee_table.sql">Complete Mysql code</a>
