@@ -15,3 +15,17 @@ MySQL & Excel
 - <a href="https://github.com/anthonymike180/COMPREHENSIVE-DATA-CLEANING-MYSQL/blob/main/Messy_Employee_Table.csv">Dataset</a>
 - <a href="https://github.com/anthonymike180/COMPREHENSIVE-DATA-CLEANING-MYSQL/blob/main/derived_table.csv">Derived table</a>
 - <a href="https://github.com/anthonymike180/COMPREHENSIVE-DATA-CLEANING-MYSQL/blob/main/cleaned_employee_table.sql">Complete Mysql code</a>
+
+## Results
+The data cleaning process successfully transformed the messy input into a structured and analysis ready dataset. Some key improvements include:
+- Removed duplicate employee records to ensure data consistency
+- Handled missing values in critical fields 
+- Standardized formatting across columns 
+- Corrected data types for numeric and date fields
+- Created a clean and reliable table ready for analysis or reporting
+
+This cleaned dataset can now be confidently used for further tasks such as:
+
+- Employee performance or salary analysis
+- HR reporting and dashboarding
+- Feeding into analytical or machine learning workflows
