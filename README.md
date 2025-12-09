@@ -1,5 +1,9 @@
 # COMPREHENSIVE-DATA-CLEANING-MYSQL
 
+<p align="center">
+  <img src="https://github.com/anthonymike180/COMPREHENSIVE-DATA-CLEANING-MYSQL/blob/main/Image%20mysql.png" width="700">
+</p>
+
 ## Overview
 This project focuses on cleaning and preparing a raw dataset for accurate analysis and reporting. The original dataset contained common data quality issues such as missing values, inconsistent formatting, duplicate records, and incorrect data types.
 
